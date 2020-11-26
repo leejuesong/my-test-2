@@ -1,0 +1,22 @@
+{
+  "name": "my-test-1",
+  "version": "1.0.0",
+  "description": "just for test!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leejuesong/my-test-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leejuesong/my-test-1/issues"
+  },
+  "homepage": "https://github.com/leejuesong/my-test-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
